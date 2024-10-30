@@ -5,7 +5,7 @@ from sklearn.linear_model import Logistic Regression
 from sklearn.metrics import accuracy_score, classification_report import joblib
 from pathlib import Path
 #Load the dataset
-file_path = "/content/fake_news_dataset(Sheet1).csv"
+file_path = "/content/fake_news_detection(Sheet1).csv"
 df = pd.read_csv(file_path)
 # Display 
 print("First few rows of the dataset:")
