@@ -33,23 +33,17 @@ The project involves the following steps:
 ### Architecture
 The system architecture includes data collection, preprocessing, model deployment, and real-time prediction modules.
 
-### Flow Chart
-
 
 ## Project Modules
 1. **Data Collection Module**: Aggregates data from various sources and stores raw data.
 2. **Data Preprocessing Module**: Cleans and converts text data to numerical vectors using techniques like TF-IDF.
 3. **Model Deployment Module**: Provides an interface for users to interact with the model (e.g., command-line or web app).
 
-## Source Code
-
 
 ## Testing
 Testing ensures the functionality and reliability of the system. This project includes:
 - **Manual Testing**: Verification of model predictions.
 - **Automated Testing**: Ensures consistent results.
-
-## Screenshots of Output
 
 
 ## Future Scope
@@ -59,5 +53,3 @@ Testing ensures the functionality and reliability of the system. This project in
 
 ## Conclusion
 This project demonstrates the use of Python and machine learning in developing a fake news detection model, providing valuable insights into Python programming, NLP, and machine learning. The skills gained here are foundational for future projects.
-
-
