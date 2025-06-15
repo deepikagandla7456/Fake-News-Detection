@@ -78,10 +78,10 @@ python app.py
 ```
 Try typing a news sentence to see if it’s classified as real or fake.
 ## Screenshots
-Sample Input:
-
-Output 
-
+**Model Evaluation Output**
+![Image](https://github.com/user-attachments/assets/ba0074db-d20d-486b-b0f7-268ae22e9089)
+**Article Prediction Output**
+![Image](https://github.com/user-attachments/assets/0a1a611e-26ee-4f4f-9e1a-fb67a770e07a)
 
 ## License
 
