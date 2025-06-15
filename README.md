@@ -1,4 +1,4 @@
-# [Fake News Detection](fake-news-detection)
+# [Fake News Detection](Fake-News-Detection)
 
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/Fake-News-Detection)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/Fake-News-Detection)]()
