@@ -1,4 +1,4 @@
-# [Fake News Detection](https://github.com/deepikagandla7456/Fake-News-Detection)
+# [Fake News Detection](#fake-news-detection)
 
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/Fake-News-Detection)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/Fake-News-Detection)]()
@@ -10,15 +10,15 @@ This project helps to detect whether a news article is real or fake by analyzing
 ---
 
 ## Table of Contents
-
-- [About](#about)
-- [Future Work](#future-work)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [Fake News Detection](#fake-news-detection)
+  - [About](#about)
+  - [Future Work](#future-work)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Setup and Installation](#setup-and-installation)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [License](#license)
 
 ---
 
