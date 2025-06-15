@@ -76,7 +76,7 @@ To run the script:
 ```shell
 python app.py
 ```
-Try typing a news sentence to see if it’s classified as real or fake.
+
 ## Screenshots
 **Model Evaluation Output**
 ![Image](https://github.com/user-attachments/assets/ba0074db-d20d-486b-b0f7-268ae22e9089)
