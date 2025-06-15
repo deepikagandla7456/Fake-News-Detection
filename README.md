@@ -50,7 +50,7 @@ The final model performs well and gives accuracy score on the test data.
 
 ## Requirements
 
-- Python 3.x  
+- Python 3.10 or higher version
 - pandas  
 - numpy  
 - scikit-learn  
