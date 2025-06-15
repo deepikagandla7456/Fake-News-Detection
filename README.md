@@ -65,6 +65,12 @@ The final model performs well and gives accuracy score on the test data.
 git clone https://github.com/deepikagandla7456/Fake-News-Detection.git
 cd Fake-News-Detection
 ```
+2. Install required packages:
+
+```shell
+pip install -r requirements.txt
+```
+
 ## Usage
 To run the script:
 ```shell
