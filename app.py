@@ -7,7 +7,7 @@ from pathlib import Path
 #Load the dataset
 file_path = "/content/fake_news_detection(Sheet1).csv"
 df = pd.read_csv(file_path)
-# Display 
+# Display the first 5 rows
 print("First few rows of the dataset:")
 print(df.head())
 # Check for null values
