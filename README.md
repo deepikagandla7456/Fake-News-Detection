@@ -7,7 +7,7 @@
 
 This project helps to detect whether a news article is real or fake by analyzing the content using machine learning techniques. It is built using Python and a few popular libraries for data processing and model building.
 
----
+
 
 ## Table of Contents
 - [Fake News Detection](#fake-news-detection)
