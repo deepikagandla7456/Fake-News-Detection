@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load Dataset
-df = pd.read_csv(r"C:\Users\Deepika\Desktop\PROJECTS\Fake-News-Detection\datasets\fake-news-detection(sheet-1).csv")
+df = pd.read_csv("Enter your file path")
 
 # Display basic info
 print("First few rows of the dataset:\n", df.head(), "\n")
@@ -57,10 +57,10 @@ while True:
             vectorized_article = vectorizer.transform([article])
             prediction = model.predict(vectorized_article)[0]
 
-            print("\n📰 Article:\n", article)
-            print("\n✅ True Label:", true_label.capitalize())
-            print("🤖 Predicted Label:", prediction.capitalize())
+            print("\n Article:\n", article)
+            print("\n True Label:", true_label.capitalize())
+            print(" Predicted Label:", prediction.capitalize())
         else:
-            print(f"❌ Please enter a number between 0 and {len(df)-1}.")
+            print(f" Please enter a number between 0 and {len(df)-1}.")
     except ValueError:
-        print("❌ Invalid input. Enter a valid index number or type 'exit' to quit.")
+        print(" Invalid input. Enter a valid index number or type 'exit' to quit.")
