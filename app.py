@@ -9,6 +9,8 @@ from pathlib import Path
 file_path = r"C:\Users\Deepika\Desktop\PROJECTS\Fake-News-Detection\datasets\fake-news-detection(sheet-1).csv"
 
 df = pd.read_csv(file_path)
+df.columns = df.columns.str.strip()
+
 # Display the first 5 rows
 print("First few rows of the dataset:")
 print(df.head())
@@ -20,7 +22,7 @@ df.dropna (inplace=True)
 # Replace or remove invalid characters
 df['Article code'] = df['Article code'].apply(lambda x: x.encode('utf-8', 'ignore').decode('utf-8'))
 # Assuming the dataset has 'Article code' and 'Label' columns
-X = df['Article code']
+X = df['Text'] # df['Article code']
 y=df['Label']
 # Check class balance
 print("\nClass distribution:")
@@ -55,8 +57,8 @@ def get_article_prediction (index):
     # Predict the label for the article
     predicted_label = model.predict(article_tfidf)[0]
     print(f"True Label: {'Fake' if true_label == 1 else 'Fake'}")
-    print("\nArticle: {article}")
-    print("Predicted Label: {'Fake' if predicted_label == 1 else 'Real'}")
+    print(f"\nArticle: {article}")
+    print(f"Predicted Label: {'Fake' if predicted_label == 1 else 'Real'}")
   else:
        print(f"Invalid article code: {index}. Please enter a number between 0 and {len (x_test)-1}.")
 # Loop to repeatedly ask for an article code until a valid one is entered
