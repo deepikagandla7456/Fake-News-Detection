@@ -78,10 +78,12 @@ python app.py
 ```
 
 ## Screenshots
+
 **Model Evaluation Output**
-![Image](https://github.com/user-attachments/assets/ba0074db-d20d-486b-b0f7-268ae22e9089)
+<img width="1753" height="541" alt="Image" src="https://github.com/user-attachments/assets/d3881b74-db65-42a8-b20f-0408836bbf0b" />
+<img width="1756" height="466" alt="Image" src="https://github.com/user-attachments/assets/64f10264-8935-444b-9f14-4d74962781fb" />
 **Article Prediction Output**
-![Image](https://github.com/user-attachments/assets/0a1a611e-26ee-4f4f-9e1a-fb67a770e07a)
+<img width="1756" height="479" alt="Image" src="https://github.com/user-attachments/assets/e652c02f-1d60-4c3b-b1f3-84272a40de52" />
 
 ## License
 
