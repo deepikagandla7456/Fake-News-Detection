@@ -111,19 +111,11 @@ After the model has been trained and saved, the application can be used for pred
 
 ## Screenshots
 
-<<<<<<< HEAD
 **Model Training and Evaluation Output**
-![Image](https://github.com/user-attachments/assets/ba0074db-d20d-486b-b0f7-268ae22e9089)
-
-**Live Article Prediction Output**
-![Image](https://github.com/user-attachments/assets/0a1a611e-26ee-4f4f-9e1a-fb67a770e07a)
-=======
-**Model Evaluation Output**
-<img width="1753" height="541" alt="Image" src="https://github.com/user-attachments/assets/d3881b74-db65-42a8-b20f-0408836bbf0b" />
-<img width="1756" height="466" alt="Image" src="https://github.com/user-attachments/assets/64f10264-8935-444b-9f14-4d74962781fb" />
+<img width="1744" height="655" alt="Image" src="https://github.com/user-attachments/assets/97c32da5-f0a7-48dc-9eb7-90581e0fabe0" />
+<img width="1742" height="561" alt="Image" src="https://github.com/user-attachments/assets/9b897a8d-d290-4bb0-807f-2ffa7eb00a41" />
 **Article Prediction Output**
-<img width="1756" height="479" alt="Image" src="https://github.com/user-attachments/assets/e652c02f-1d60-4c3b-b1f3-84272a40de52" />
->>>>>>> b9af10e42afd10bda0d5b21b125f6e050c9811b8
+<img width="1727" height="618" alt="Image" src="https://github.com/user-attachments/assets/80d01c05-fc8a-48ae-a108-465d8cfadd80" />
 
 ---
 
