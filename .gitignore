@@ -1,0 +1,6 @@
+# Ignore large dataset files
+datasets/Fake.csv
+datasets/True.csv
+
+# Ignore generated model files
+saved_models/
